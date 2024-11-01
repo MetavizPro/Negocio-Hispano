@@ -32,16 +32,18 @@ The *Negocio Hispano* website is built on the *Brilliant Directory* platform, pr
 - *JavaScript*: For interactive elements and dynamic content.
 - *PHP*: For server-side scripting and database interactions.
 ## 👨‍💻 About the Developer
-  
-I am **Sajid Jamil**, an experienced developer specializing in the **Brilliant Directory** platform. This project showcases my ability to create user-friendly, feature-rich directories that provide real value to users and enhance community engagement.
 
-### Contact Me
+At Metaviz, we have a team of experienced Brilliant Directories developers. This project showcases our ability to build feature-rich directories that deliver real value to both users and service providers.
 
-If you're looking for a *Brilliant Directory* expert to develop or enhance your platform, let's collaborate!
+If you're looking for a *Brilliant Directory* expert to develop or enhance your directory platform, let's collaborate with us and create a powerful tool for your business!
+
+---
+
+## 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
 
 ---
 
-*Hire me* to elevate your Brilliant Directories project and create a platform that meets your business needs!
+**Hire our team** to elevate your Brilliant Directories project, and let’s build a platform that meets your business needs!
